@@ -3,7 +3,7 @@
 ## From Passenger Feedback to Actionable Insights
 
 ## Project Overview
-This project was developed as the final capstone project for the Ironhack Data Analytics Bootcamp (February 2026) by Ghazal Hassanzadeh.
+This project was developed as the final capstone project for the Ironhack Data Analytics Bootcamp (January 2026) by Ghazal Hassanzadeh.
 
 Using U.S. airline passenger satisfaction data, the project investigates the key drivers of satisfaction, the relative impact of service quality versus operational disruptions, and how airlines can focus on high-impact improvements rather than broad, inefficient changes.
 
